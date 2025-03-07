@@ -26,11 +26,3 @@ Una aplicación web sencilla para organizar un sorteo de "Amigo Secreto". Esta h
 
 - **app.js:**  
   Contiene la lógica JavaScript para la funcionalidad del sorteo, manejo de eventos y actualización dinámica del DOM.
-
-## Instalación y Uso
-
-1. **Clonar el repositorio:**
-
-   ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
-
